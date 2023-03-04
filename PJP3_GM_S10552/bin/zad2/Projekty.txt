@@ -1,0 +1,4 @@
+Groovy	Adam Abacki	Bartosz Babacki	Cecyl Cabacki	Damian Dabacki	Felicja Febacka
+Grails	Adam Abacki	Bartosz Babacki	Felicja Febacka	Cecyl Cabacki
+Java	Ela Ebacka	Damian Dabacki
+JEE	Adam Abacki	Ela Ebacka	Cecyl Cabacki

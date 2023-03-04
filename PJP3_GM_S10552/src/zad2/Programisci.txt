@@ -1,0 +1,6 @@
+Adam Abacki	Groovy	Grails	JEE
+Bartosz Babacki	Groovy	Grails
+Cecyl Cabacki	Groovy	Grails	JEE
+Damian Dabacki	Groovy	Java
+Felicja Febacka	Groovy	Grails
+Ela Ebacka	Java	JEE
